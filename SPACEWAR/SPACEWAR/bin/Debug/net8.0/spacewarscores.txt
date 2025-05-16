@@ -1,9 +1,2 @@
 Scoreboard:
-Player7: 12300
-Player3: 11700
-Player5: 11300
-Player6: 11100
-Player2: 10200
-Player1: 8500
-Player4: 8500
-Player8: 3800
+
